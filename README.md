@@ -1,5 +1,7 @@
 #HelloWorld
 
+In the solution setting , Please setup the startup project as Multiple Startup project with action for HelloWorld.API and HelloWorldMessage as "start without debugging"
+
 There are 2 primary projects
 
 **HelloWorldAPI**
